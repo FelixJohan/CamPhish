@@ -32,16 +32,17 @@ simply enter festival name or youtube's video ID
 ## Installing and requirements
 
 This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal
-
-_apt-get -y install php openssh git wget_
-
+```
+apt-get -y install php openssh git wget_
+```
 ## Installing (Kali Linux/Termux):
-_git clone https://github.com/techchipnet/CamPhish_
+```
+git clone https://github.com/techchipnet/CamPhish
 
-_cd CamPhish_
+cd CamPhish
 
-_bash camphish.sh_
-
+bash camphish.sh 
+```
 ## Change Log:
 Version: 1.7: Fix and add support
 
